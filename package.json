@@ -25,7 +25,7 @@
     ]
   },
   "browserslist": {
-    "production": [
+    "last 1 version": [
       ">0.2%",
       "not dead",
       "not op_mini all"
